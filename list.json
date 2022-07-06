@@ -1,8 +1,8 @@
-//配置地址：http://192.168.0.1:81/list.json
+//配置地址：https://cdn.jsdelivr.net/gh/85550424/TV/list.json
 {
-"spider":"http://192.168.0.1:81/TVBox/0706.jar",
+"spider":"https://cdn.jsdelivr.net/gh/85550424/TV/0706.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzE5Mi4xNjguMC4xOjgxL1RWQm94L3R2L2JjLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doLzg1NTUwNDI0L1RWL2lwdHYudHh0"]}]}],
 
 "sites":[
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
