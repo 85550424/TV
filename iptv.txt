@@ -163,7 +163,7 @@ NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/
 NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
 NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/1.m3u8
 NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/1.m3u8
-NewTV武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/1.m3u8
+NewTV武博世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/1.m3u8
 NewTV农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/1.m3u8
 NewTV潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/1.m3u8
 NewTV炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/1.m3u8
@@ -179,7 +179,7 @@ NewTV军事评论,http://39.134.66.99/PLTV/88888888/224/3221225535/index.m3u8
 NewTV精品大剧,http://39.134.66.99/PLTV/88888888/224/3221225536/index.m3u8
 NewTV潮妈辣婆,http://39.134.66.99/PLTV/88888888/224/3221225542/index.m3u8
 NewTV精品纪录,http://39.134.66.99/PLTV/88888888/224/3221225545/index.m3u8
-NewTV武搏世界,http://39.134.66.99/PLTV/88888888/224/3221225547/index.m3u8
+NewTV武博世界,http://39.134.66.99/PLTV/88888888/224/3221225547/index.m3u8
 NewTV精品综合,http://39.134.66.99/PLTV/88888888/224/3221225550/index.m3u8
 NewTV农业致富,http://39.134.66.99/PLTV/88888888/224/3221225552/index.m3u8
 NewTV惊悚悬疑,http://39.134.66.99/PLTV/88888888/224/3221225553/index.m3u8
