@@ -17,7 +17,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
 #EXTINF:-1 tvg-name="鸡西公共" tvg-logo="https://raw.gitmirror.com/85550424/TV/main/Logo/鸡西.png" group-title="本地",鸡西公共
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.gitmirror.com/85550424/TV/main/Logo/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.gitmirror.com/85550424/TV/main/Logo/CCTV1.png" group-title="央视",CCTV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.gitmirror.com/85550424/TV/main/Logo/CCTV1.png" group-title="央视",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
