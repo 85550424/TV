@@ -1,173 +1,173 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang.png" group-title="本地",黑龙江卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang.png" group-title="本地",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang1.png" group-title="本地",黑龙江新闻法治
+#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang1.png" group-title="本地",黑龙江新闻法治
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang3.png" group-title="本地",黑龙江影视
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang3.png" group-title="本地",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang4.png" group-title="本地",黑龙江都市
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang4.png" group-title="本地",黑龙江都市
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang2.png" group-title="本地",黑龙江文体
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang2.png" group-title="本地",黑龙江文体
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang5.png" group-title="本地",黑龙江农业科教
+#EXTINF:-1 tvg-id="黑龙江农业科教" tvg-name="黑龙江农业科教" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang5.png" group-title="本地",黑龙江农业科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang6.png" group-title="本地",黑龙江少儿
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang6.png" group-title="本地",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 tvg-name="鸡西新闻" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/jxxwzh.png" group-title="本地",鸡西新闻
+#EXTINF:-1 tvg-id="鸡西新闻" tvg-name="鸡西新闻" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/jxxwzh.png" group-title="本地",鸡西新闻
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
-#EXTINF:-1 tvg-name="鸡西公共" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/jxaqsh.png" group-title="本地",鸡西公共
+#EXTINF:-1 tvg-id="鸡西公共" tvg-name="鸡西公共" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/jxaqsh.png" group-title="本地",鸡西公共
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-1综合" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV1.png" group-title="央视",CCTV-1综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1综合" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV1.png" group-title="央视",CCTV-1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV2.png" group-title="央视",CCTV-2财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2财经" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV2.png" group-title="央视",CCTV-2财经
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV3.png" group-title="央视",CCTV-3综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3综艺" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV3.png" group-title="央视",CCTV-3综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-4中文国际" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV4.png" group-title="央视",CCTV-4中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4中文国际" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-5体育" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV5.png" group-title="央视",CCTV-5体育
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5体育" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV5.png" group-title="央视",CCTV-5体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-5⁺体育赛事" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV5plus.png" group-title="央视",CCTV-5⁺体育赛事
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5⁺体育赛事" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV5plus.png" group-title="央视",CCTV-5⁺体育赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-6电影" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV6.png" group-title="央视",CCTV-6电影
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6电影" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV6.png" group-title="央视",CCTV-6电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-7国防军事" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV7.png" group-title="央视",CCTV-7国防军事
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7国防军事" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-8电视剧" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV8.png" group-title="央视",CCTV-8电视剧
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8电视剧" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-9纪录" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV9.png" group-title="央视",CCTV-9纪录
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9纪录" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV9.png" group-title="央视",CCTV-9纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-10科教" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV10.png" group-title="央视",CCTV-10科教
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10科教" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV10.png" group-title="央视",CCTV-10科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-11戏曲" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV11.png" group-title="央视",CCTV-11戏曲
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11戏曲" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV11.png" group-title="央视",CCTV-11戏曲
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-12社会与法" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV12.png" group-title="央视",CCTV-12社会与法
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12社会与法" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-13新闻" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV13.png" group-title="央视",CCTV-13新闻
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13新闻" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV13.png" group-title="央视",CCTV-13新闻
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-14少儿" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV14.png" group-title="央视",CCTV-14少儿
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14少儿" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV14.png" group-title="央视",CCTV-14少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-15音乐" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV15.png" group-title="央视",CCTV-15音乐
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15音乐" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV15.png" group-title="央视",CCTV-15音乐
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-16奥林匹克" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV16.png" group-title="央视",CCTV-16奥林匹克
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16奥林匹克" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV16.png" group-title="央视",CCTV-16奥林匹克
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-17农业农村" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV17.png" group-title="央视",CCTV-17农业农村
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17农业农村" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Hunan.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Hunan.png" group-title="卫视",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Zhejiang.png" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Zhejiang.png" group-title="卫视",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Jiangsu.png" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Jiangsu.png" group-title="卫视",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Beijing.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Beijing.png" group-title="卫视",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Dongfang.png" group-title="卫视",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Dongfang.png" group-title="卫视",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Anhui.png" group-title="卫视",安徽卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Anhui.png" group-title="卫视",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Guangdong.png" group-title="卫视",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Guangdong.png" group-title="卫视",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Shenzhen.png" group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Shenzhen.png" group-title="卫视",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Liaoning.png" group-title="卫视",辽宁卫视
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Liaoning.png" group-title="卫视",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Hainan.png" group-title="卫视",海南卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Hainan.png" group-title="卫视",海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Shandong.png" group-title="卫视",山东卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Shandong.png" group-title="卫视",山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Tianjin.png" group-title="卫视",天津卫视
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Tianjin.png" group-title="卫视",天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Chongqing.png" group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Chongqing.png" group-title="卫视",重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Dongnan.png" group-title="卫视",东南卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Dongnan.png" group-title="卫视",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Gansu.png" group-title="卫视",甘肃卫视
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Gansu.png" group-title="卫视",甘肃卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Guangxi.png" group-title="卫视",广西卫视
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Guangxi.png" group-title="卫视",广西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Guizhou.png" group-title="卫视",贵州卫视
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Guizhou.png" group-title="卫视",贵州卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Hebei.png" group-title="卫视",河北卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Hebei.png" group-title="卫视",河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang.png" group-title="卫视",黑龙江卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Henan.png" group-title="卫视",河南卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Henan.png" group-title="卫视",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Hubei.png" group-title="卫视",湖北卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Hubei.png" group-title="卫视",湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Jiangxi.png" group-title="卫视",江西卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Jiangxi.png" group-title="卫视",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Jilin.png" group-title="卫视",吉林卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Jilin.png" group-title="卫视",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Neimeng.png" group-title="卫视",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Neimeng.png" group-title="卫视",内蒙古卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Ningxia.png" group-title="卫视",宁夏卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Ningxia.png" group-title="卫视",宁夏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Shanxi_.png" group-title="卫视",山西卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Shanxi_.png" group-title="卫视",山西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Shanxi.png" group-title="卫视",陕西卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Shanxi.png" group-title="卫视",陕西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Sichuan.png" group-title="卫视",四川卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Sichuan.png" group-title="卫视",四川卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Xinjiang.png" group-title="卫视",新疆卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Xinjiang.png" group-title="卫视",新疆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Yunnan.png" group-title="卫视",云南卫视
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Yunnan.png" group-title="卫视",云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Qinghai.png" group-title="卫视",青海卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Qinghai.png" group-title="卫视",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Xizang.png" group-title="卫视",西藏卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/Xizang.png" group-title="卫视",西藏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/hmdy.png" group-title="NewTV",黑莓电影
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/hmdy.png" group-title="NewTV",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/hmdh.png" group-title="NewTV",黑莓动画
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/hmdh.png" group-title="NewTV",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/dbss.png" group-title="NewTV",哒啵赛事
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/dbss.png" group-title="NewTV",哒啵赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV23.png" group-title="NewTV",超级电影
+#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV23.png" group-title="NewTV",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV24.png" group-title="NewTV",超级综艺
+#EXTINF:-1 tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV24.png" group-title="NewTV",超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV25.png" group-title="NewTV",超级电视剧
+#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV25.png" group-title="NewTV",超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV22.png" group-title="NewTV",超级体育
+#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV22.png" group-title="NewTV",超级体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV03.png" group-title="NewTV",动作电影
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV03.png" group-title="NewTV",动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV10.png" group-title="NewTV",惊悚悬疑
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV10.png" group-title="NewTV",惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV17.png" group-title="NewTV",爱情喜剧
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV17.png" group-title="NewTV",爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV09.png" group-title="NewTV",东北热剧
+#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV09.png" group-title="NewTV",东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV02.png" group-title="NewTV",军旅剧场
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV02.png" group-title="NewTV",军旅剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV05.png" group-title="NewTV",家庭剧场
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV05.png" group-title="NewTV",家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV04.png" group-title="NewTV",古装剧场
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV04.png" group-title="NewTV",古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-name="精品综合" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV12.png" group-title="NewTV",精品综合
+#EXTINF:-1 tvg-id="NEWTV精品综合" tvg-name="精品综合" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV12.png" group-title="NewTV",精品综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-name="热播精选" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV06.png" group-title="NewTV",热播精选
+#EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV06.png" group-title="NewTV",热播精选
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV19.png" group-title="NewTV",精品大剧
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV19.png" group-title="NewTV",精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV20.png" group-title="NewTV",精品纪录
+#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV20.png" group-title="NewTV",精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV18.png" group-title="NewTV",精品体育
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV18.png" group-title="NewTV",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV01.png" group-title="NewTV",军事评论
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV01.png" group-title="NewTV",军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV11.png" group-title="NewTV",怡伴健康
+#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV11.png" group-title="NewTV",怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV07.png" group-title="NewTV",中国功夫
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV07.png" group-title="NewTV",中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-name="武博世界" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV14.png" group-title="NewTV",武博世界
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武搏世界" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV14.png" group-title="NewTV",武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV08.png" group-title="NewTV",农业致富
+#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV08.png" group-title="NewTV",农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV15.png" group-title="NewTV",潮妈辣婆
+#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV15.png" group-title="NewTV",潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV16.png" group-title="NewTV",炫舞未来
+#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV16.png" group-title="NewTV",炫舞未来
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV26.png" group-title="NewTV",精品萌宠
+#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV26.png" group-title="NewTV",精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
