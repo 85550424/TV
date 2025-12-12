@@ -145,7 +145,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV04.png" group-title="NewTV",古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV精品综合" tvg-name="精品综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV12.png" group-title="NewTV",精品综合
+#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV12.png" group-title="NewTV",精品综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/85550424/TV/refs/heads/main/TVLogo/NewTV06.png" group-title="NewTV",热播精选
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
